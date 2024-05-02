@@ -1,0 +1,21 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"TV",
+            "price":3200,
+            "quantity":2
+        },
+        {
+            "id":2,
+            "name":"Mobile",
+            "price":60000,
+            "quantity":1
+        },
+        {   "id":3,
+            "name":"Samsung",
+            "price":2000,
+            "quantity":4
+        }
+    ]
+}

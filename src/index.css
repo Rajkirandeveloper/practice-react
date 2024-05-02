@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.getRed{
+  color: green;
+  text-decoration: line-through;
+}
+.getBlue{
+  color: blue;
+  text-decoration: none;
+}
